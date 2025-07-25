@@ -20,8 +20,6 @@ A web-based interactive visualizer for **Dijkstra’s shortest path algorithm**,
 ![Demo](images/PFV_1.png)
 ![Demo](images/PFV_2.png)
 
-> *(Replace the link above with an actual GIF or screenshot of the visualizer in action)*
-
 ---
 
 ## 🚀 Getting Started
